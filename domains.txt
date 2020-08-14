@@ -1,3 +1,4 @@
-adnxs.net
-computers.biz
+*.adnxs.net
+*.adnxs.com
+*.computers.biz
 
