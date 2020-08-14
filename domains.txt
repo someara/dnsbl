@@ -1,4 +1,6 @@
+in-addr.arpa
 adnxs.net
 adnxs.com
+ghostery.com
 ghostery.net
 gvt2.com
