@@ -1,4 +1,5 @@
-*.adnxs.net
-*.adnxs.com
-*.computers.biz
-
+adnxs.net
+adnxs.com
+computers.biz
+collector-hpn.ghostery.net
+gvt2.com
